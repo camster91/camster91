@@ -1,3 +1,5 @@
+This repo is archived and no longer maintained.
+
 # Hi, I'm Cameron Ashley
 
 Toronto developer. I run [Ashbi Design](https://ashbi.ca), a small web agency that builds Shopify and WordPress/WooCommerce stores, and I build and ship my own web and mobile apps.
